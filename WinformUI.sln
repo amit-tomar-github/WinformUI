@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinformUI", "WinformUI\WinformUI.csproj", "{E59F72CF-2DF3-4061-9138-35AA735D982C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E59F72CF-2DF3-4061-9138-35AA735D982C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59F72CF-2DF3-4061-9138-35AA735D982C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59F72CF-2DF3-4061-9138-35AA735D982C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59F72CF-2DF3-4061-9138-35AA735D982C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B06A540-A463-4456-B790-DFA2624AB575}
+	EndGlobalSection
+EndGlobal
