@@ -91,7 +91,7 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(98, 2);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(88, 40);
+            this.label1.Size = new System.Drawing.Size(111, 50);
             this.label1.TabIndex = 1;
             this.label1.Text = "GUI";
             // 
@@ -102,7 +102,7 @@
             this.label2.ForeColor = System.Drawing.Color.DimGray;
             this.label2.Location = new System.Drawing.Point(112, 58);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(257, 31);
+            this.label2.Size = new System.Drawing.Size(322, 39);
             this.label2.TabIndex = 2;
             this.label2.Text = "Please Login First";
             // 
@@ -112,7 +112,7 @@
             this.checkBox1.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.checkBox1.Location = new System.Drawing.Point(183, 178);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(114, 21);
+            this.checkBox1.Size = new System.Drawing.Size(138, 24);
             this.checkBox1.TabIndex = 3;
             this.checkBox1.Text = "Remember me";
             this.checkBox1.UseVisualStyleBackColor = true;
@@ -139,7 +139,7 @@
             this.textBox1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(175, 112);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(183, 23);
+            this.textBox1.Size = new System.Drawing.Size(183, 27);
             this.textBox1.TabIndex = 9;
             // 
             // button2
@@ -177,7 +177,7 @@
             this.textBox2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(175, 149);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(183, 23);
+            this.textBox2.Size = new System.Drawing.Size(183, 27);
             this.textBox2.TabIndex = 11;
             // 
             // label3
@@ -186,9 +186,9 @@
             this.label3.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.label3.Font = new System.Drawing.Font("Century Gothic", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.label3.Location = new System.Drawing.Point(0, 282);
+            this.label3.Location = new System.Drawing.Point(0, 279);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(208, 17);
+            this.label3.Size = new System.Drawing.Size(253, 20);
             this.label3.TabIndex = 13;
             this.label3.Text = "Copyright 2019. All rights reseved.";
             // 
